@@ -26,7 +26,7 @@ nameList = ("Lebron","Kobe","Michale","Shaq","Dennis")
 name = input("enter a name")
 for i in nameList:
     if i == name:
-        print("That name is on the list")
+        print("That name is in the list")
         break
 else:
     if i != name:

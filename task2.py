@@ -22,7 +22,7 @@ Enter a name: Lebron
 That name is on the list
 """
 
-nameList = ("Lebron","Kobe","Michale","Shaq","Dennis")
+nameList = ("Guile","Cammy","Ryu","Ken","Chun-Li")
 name = input("enter a name")
 for i in nameList:
     if i == name:
